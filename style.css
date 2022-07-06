@@ -95,3 +95,22 @@ hr{
     margin-right: 30px;
     border-radius: 5px;
 }
+
+footer{
+
+    margin-top: 200px;
+    background-color: rgb(40, 63, 5);
+}
+
+.text-big{
+
+    text-align: center;
+}
+
+.text-color{
+
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
