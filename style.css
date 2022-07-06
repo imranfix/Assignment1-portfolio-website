@@ -8,6 +8,13 @@ body{
 .big-header{
 
     font-size: 50px;
+    color: olivedrab;
+}
+
+.para-tag{
+
+    color: peru;
+
 }
 
 .background-section{
@@ -88,11 +95,11 @@ hr{
 }
 
 
-.box-ready{
+.box-ready1{
 
     box-shadow: 10px 10px 20px gray;
-    background-color: rgb(231, 221, 201);
-    height: 500px;
+    background-color: cadetblue;
+    height: 520px;
     width: 520px;
     padding-left: 20px;
     padding-right: 20px;
@@ -101,6 +108,38 @@ hr{
     margin-right: 30px;
     border-radius: 5px;
 }
+
+
+.box-ready2{
+
+    box-shadow: 10px 10px 20px gray;
+   background-color: burlywood;
+    height: 520px;
+    width: 520px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+
+
+.box-ready3{
+
+    box-shadow: 10px 10px 20px gray;
+    background-color: darksalmon;
+    height: 520px;
+    width: 520px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+
+
 
 
 .text-big{
@@ -172,7 +211,7 @@ footer{
 
 .text-color{
 
-    color: white;
+    color: orange;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 5px;
@@ -183,4 +222,5 @@ footer{
     color: white;
     text-align: center;
     padding-bottom: 15px;
+    font-weight: ;
 }
