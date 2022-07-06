@@ -5,6 +5,11 @@ body{
    
 }
 
+.big-header{
+
+    font-size: 50px;
+}
+
 .background-section{
     background-image: url(./donate-today/images/donation5.jpg);
     background-repeat: no-repeat;
@@ -91,9 +96,72 @@ hr{
     width: 520px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 5px;
     margin-left: 30px;
     margin-right: 30px;
     border-radius: 5px;
+}
+
+
+.text-big{
+
+    text-align: center;
+}
+
+
+.landing-page{
+
+    display: flex;
+    margin-top: 150px;
+}
+
+.landing-gap{
+
+    margin-top: 111px;
+}
+
+.landing-image{
+    border-radius: 10%;
+    
+ 
+}
+
+.heading-text{
+
+    padding-left: 80px;
+
+}
+
+.landing-image2{
+
+    height: 680px;
+    width: 1005px;
+    border-radius: 10%;
+    margin-left: 30px;
+}
+
+.paragraph-text1{
+
+    padding-left: 10px;
+}
+
+.paragraph-text2{
+
+   
+    padding-left: 80px;
+}
+
+.third-button{
+
+    
+    background-color: tomato;
+    padding: 25px 70px;
+    border-radius: 5px;
+    border-color: tomato;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+
 }
 
 footer{
@@ -102,15 +170,17 @@ footer{
     background-color: rgb(40, 63, 5);
 }
 
-.text-big{
-
-    text-align: center;
-}
-
 .text-color{
 
     color: white;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 5px;
+    font-size: 50px;
+}
+
+.black-text{
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
 }
