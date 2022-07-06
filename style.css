@@ -7,15 +7,17 @@ body{
 
 .big-header{
 
-    font-size: 50px;
-    color: olivedrab;
+    font-size: 60px;
+    color: red;
 }
-
+/* 
 .para-tag{
 
-    color: peru;
+    color: rgba(255, 255, 255, 0.021);
+    font-weight: bold;
+    font-size: 30px;
 
-}
+} */
 
 .background-section{
     background-image: url(./donate-today/images/donation5.jpg);
@@ -34,6 +36,12 @@ body{
     border-radius: 5px;
     border-color: goldenrod;
     font-size: 30px;
+}
+
+.para-donate{
+
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .text-donate{
@@ -60,6 +68,7 @@ body{
 
 .amount-money{
     text-align: center;
+
 }
 
 hr{
